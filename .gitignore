@@ -20,3 +20,4 @@ Thumbs.db*
 .db/
 # vs code
 .vscode/
+temp/

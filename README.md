@@ -1,6 +1,6 @@
 # 自动控制原理
 
-- 在线预览:https://github.com/dzylikecode/SCUT_3_Auto-Control/#/
+- 在线预览:https://dzylikecode.github.io/SCUT_3_Auto-Control/#/
 
 ## experiment
 

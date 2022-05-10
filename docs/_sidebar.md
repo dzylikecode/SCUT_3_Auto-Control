@@ -32,6 +32,12 @@
 
   - <a href="RES/ch05-自动控制系统的频率分析.pdf">PPT</a>
 
+  - [summary](ch5/自控考试题型.md)
+
 - ch06
 
   - <a href="RES/ch06-自动控制系统的校正.pdf">PPT</a>
+
+- review
+
+  - [考试题型与解答](review/part2/考试题型与解答.md)

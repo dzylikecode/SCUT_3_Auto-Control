@@ -1,6 +1,8 @@
 # 自动控制原理
 
-## amusing and inspired
+## Funny
+
+自动控制是一个数学模型, 同样的论文也有一个模型
 
 ![](assets/00004.svg)
 ![](assets/00005.svg)

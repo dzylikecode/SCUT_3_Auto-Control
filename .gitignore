@@ -21,3 +21,5 @@ Thumbs.db*
 # vs code
 .vscode/
 temp/
+#unotes
+.unotes/

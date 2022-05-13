@@ -104,7 +104,8 @@ $$
   应力图避免网络使其$\varphi_m$出现在校正后系统的开环截止频率$\omega_c^{\prime}$的附近, 通常:
 
   $$
-  \omega_2 = \frac {1} {T} \ll \omega_c^{\prime}
+  \omega_2 = \frac {1} {T} \ll \omega_c^{\prime}\\
+  L(\omega_c) = 20 \log \frac {1} {\beta}
   $$
 
 因为$\beta > 1$, 极点比零点更靠近原点, 若 T 足夠大,则滞后网络提供一对靠近原点的开环偶极子,在不影响远离偶极子处根轨迹前

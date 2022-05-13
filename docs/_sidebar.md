@@ -37,12 +37,16 @@
   - <a href="RES/ch05-自动控制系统的频率分析.pdf">PPT</a>
 
   - [summary](ch5/自控考试题型.md)
+  
+  - [homework](ch5/HW/README.md) 
 
 - ch06
 
   - <a href="RES/ch06-自动控制系统的校正.pdf">PPT</a>
 
   - [summary](ch6/README.md)
+
+  - [homework](ch6/HW/README.md)
 
 - review
 

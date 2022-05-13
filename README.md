@@ -2,6 +2,12 @@
 
 - 在线预览:https://dzylikecode.github.io/SCUT_3_Auto-Control/#/
 
+## 预期
+
+- [ ] 图片尽可能的少
+- [ ] 添加 matlab 实验
+- [ ] 添加作业
+
 ## experiment
 
 - [Automatic-control-Experiment](https://github.com/dzylikecode/Automatic-control-Experiment)

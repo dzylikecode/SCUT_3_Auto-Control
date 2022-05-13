@@ -42,6 +42,8 @@
 
   - <a href="RES/ch06-自动控制系统的校正.pdf">PPT</a>
 
+  - [summary](ch6/README.md)
+
 - review
 
   - [考试题型与解答](review/part2/考试题型与解答.md)

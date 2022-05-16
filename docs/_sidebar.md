@@ -37,8 +37,8 @@
   - <a href="RES/ch05-自动控制系统的频率分析.pdf">PPT</a>
 
   - [summary](ch5/自控考试题型.md)
-  
-  - [homework](ch5/HW/README.md) 
+
+  - [homework](ch5/HW/README.md)
 
 - ch06
 
@@ -51,3 +51,7 @@
 - review
 
   - [考试题型与解答](review/part2/考试题型与解答.md)
+
+----extension----
+
+- [远航](voyage.md)
